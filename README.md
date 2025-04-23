@@ -1,8 +1,8 @@
 # OSS Project Management
 
-Name: <Ahmad_Asfi_Febriansyah>
+Name: Ahmad Asfi Febriansyah
 <br>
-City: <Kota_Blitar>
+City: Kota Blitar
 
 ## Getting Started
 
